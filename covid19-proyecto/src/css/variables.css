@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&family=Nanum+Gothic&display=swap');
+
+:root{
+    --hover-background: rgba(255, 60, 60, 0.6) ;
+    --covid-red: rgb(255, 60, 60);
+    --covid-grey: rgb(100, 100, 100);
+}

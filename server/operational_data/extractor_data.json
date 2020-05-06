@@ -1,0 +1,6 @@
+{
+    "covid-wikipedia": "https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data",
+    "covid-opendata": "https://opendata.ecdc.europa.eu/covid19/casedistribution/json/",
+    "covid-tests": "https://corona.lmao.ninja/v2/countries?yesterday&sort"
+
+}
